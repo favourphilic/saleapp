@@ -1,0 +1,6 @@
+# requirements.txt
+
+streamlit>=1.28
+#git+https://github.com/streamlit/gsheets-connection
+pandasql  # this is for example/st_app.py only
+st-gsheets-connection
